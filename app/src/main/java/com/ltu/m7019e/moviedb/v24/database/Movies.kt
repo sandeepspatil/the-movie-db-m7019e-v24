@@ -1,6 +1,6 @@
-package com.ltu.m7019e.movidedb.v24.database
+package com.ltu.m7019e.moviedb.v24.database
 
-import com.ltu.m7019e.movidedb.v24.model.Movie
+import com.ltu.m7019e.moviedb.v24.model.Movie
 
 class Movies {
     fun getMovies(): List<Movie> {

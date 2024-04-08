@@ -1,4 +1,4 @@
-package com.ltu.m7019e.movidedb.v24
+package com.ltu.m7019e.moviedb.v24
 
 import org.junit.Test
 

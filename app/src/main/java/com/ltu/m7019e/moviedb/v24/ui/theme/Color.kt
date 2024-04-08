@@ -1,4 +1,4 @@
-package com.ltu.m7019e.movidedb.v24.ui.theme
+package com.ltu.m7019e.moviedb.v24.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

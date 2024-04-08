@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ltu.m7019e.movidedb.v24"
+    namespace = "com.ltu.m7019e.moviedb.v24"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.ltu.m7019e.movidedb.v24"
+        applicationId = "com.ltu.m7019e.moviedb.v24"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -62,6 +62,8 @@ dependencies {
 
     // Coil Image dependency
     implementation(libs.coil.compose)
+    implementation(libs.androidx.navigation.runtime.ktx)
+    implementation(libs.androidx.navigation.compose)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

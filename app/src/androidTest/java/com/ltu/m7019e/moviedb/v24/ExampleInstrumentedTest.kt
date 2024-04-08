@@ -1,4 +1,4 @@
-package com.ltu.m7019e.movidedb.v24
+package com.ltu.m7019e.moviedb.v24
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

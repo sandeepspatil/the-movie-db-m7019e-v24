@@ -1,4 +1,4 @@
-package com.ltu.m7019e.movidedb.v24.model
+package com.ltu.m7019e.moviedb.v24.model
 
 data class Movie(
     var id: Long = 0L,
