@@ -12,8 +12,8 @@ data class MovieResponse(
     var results: List<Movie> = listOf(),
 
     @SerialName(value = "total_pages")
-    var total_pages: Int = 0,
+    var totalPages: Int = 0,
 
     @SerialName(value = "total_results")
-    var total_results: Int = 0,
+    var totalResults: Int = 0,
 )

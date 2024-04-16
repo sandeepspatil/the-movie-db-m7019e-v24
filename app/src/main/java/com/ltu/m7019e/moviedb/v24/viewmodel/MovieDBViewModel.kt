@@ -36,7 +36,7 @@ class MovieDBViewModel(private val moviesRepository: MoviesRepository) : ViewMod
         private set
 
     init {
-        getTopRatedMovies()
+        getPopularMovies()
     }
 
     private fun getTopRatedMovies() {
